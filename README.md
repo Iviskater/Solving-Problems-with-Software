@@ -2,7 +2,7 @@
 
 Java Programming: Solving Problems with Software Coursera solutions with Netbeans projects.
 
-Week 1 : Introduction to the course. 
+[Week1](docs/CONTRIBUTING.md): Introduction to the course. 
 - BlueJ Environement
 - Variables and Mathematical Operators
 - Functions and Conditionals
