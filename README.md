@@ -8,3 +8,8 @@ Week 1 : Introduction to the course.
 - Functions and Conditionals
 - Classes, Types, and For Each Loops
 Test : Seven Steps for Solving Programming Problems 
+
+
+______
+
+Hope you find useful this content to understand better the course.
